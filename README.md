@@ -6,5 +6,5 @@ usually php/laravel & frontend shenanigans, but i like to explore whatever catch
 
 <sup>love you guys ❤️</sup>
 
-![Minlet at a desk typing on a keyboard with a glass of hot coffee on one side and a small red panda on the other](https://f2.toyhou.se/file/f2-toyhou-se/images/105310775_qle785bpZye3FCD.gif)[^1]
+![Minlet at a desk typing on a keyboard with a glass of hot coffee on one side and a small red panda on the other](https://i.imgur.com/JXZXoWs.gif)[^1]
 [^1]: pixel by [tanporo@twitter](https://x.com/_tanporo_)
