@@ -1,14 +1,10 @@
-## hi! 😸
+## hi! :oyster:
 
-> :hibiscus: min or ryouta, mid-20s, it/its or they/them, jeju-kr + jp
+> :hibiscus::wheelchair: min or ryouta, 25+, it/its or they/them, jeju-kr & jp
 
-**i mostly do frontend shenanigans but i touch backend stuff now and then. you'll usually see me working with lorekeeper stuff and sometimes building & deploying static sites with repos using 11ty.** it's probably prudent to keep in mind i'm quite ill, don't always code with my hands (occasionally talon voice/utterly voice), and can't stay upright for too long so i may take longer than average depending on the work; if you need something fast from me let me know beforehand so i can see about prioritizing it!
+usually php/laravel & frontend shenanigans, but i like to explore whatever catches my eye. **you'll usually see me working with lorekeeper stuff and sometimes building & deploying static sites with 11ty or hugo.** it's probably prudent to keep in mind i'm quite ill, don't always code with my hands (occasionally talon voice/utterly voice), and can't stay upright for too long so i may take longer than average depending on the work; if you need something fast from me let me know beforehand so i can see about prioritizing it!
 
-:star2: **want to toss me a few bucks?**
+<sup>love you guys ❤️</sup>
 
-> :coffee: you can find my **ko-fi** here: <https://ko-fi.com/alyeong>
-
-<sup>helps me afford my regular IV fluids and immunotherapy so i can continue to do stuff. ❤️</sup>
-
-![A small pixel of a white cat with hair tufts and a green bandana around its neck. It is a mascot named Jirou.](https://host.geobuk.club/images/converted/39l8lKejeNeW8MdGq)[^1]
-[^1]: pixel by [mantispire@th](https://toyhou.se/mantispire)
+![Minlet at a desk typing on a keyboard with a glass of hot coffee on one side and a small red panda on the other](https://dorok.gouyan.vip/i/0d8d0e62-eb15-4f88-bd7c-701467e84ff9.gif)[^1]
+[^1]: pixel by [tanporo@twitter](https://x.com/_tanporo_)
